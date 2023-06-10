@@ -1,0 +1,46 @@
+Bioregion,Species,Estimated,Average,Source,Estimated,Standard
+,,catch (kept by,weight (kg),,harvest,Error
+,,number),,,(tonnes),
+North,Barcheek Coral Trout,"3,399",2.296,A,8.613,1.493
+,Red Emperor,"2,752",3.112,A,8.564,2.440
+,Grass Emperor,"5,971",1.295,A,7.732,2.954
+,Rankin Cod,"1,726",3.850,A,6.645,1.675
+,Blackspot Tuskfish,"1,470",2.803,A,4.120,1.169
+,Saddletail Snapper,"1,903",1.801,A,3.427,2.107
+,Spangled Emperor,"1,594",1.946,A,3.102,0.959
+,Stripey Snapper,"4,128",0.605,A,2.497,0.840
+,Golden Snapper,"1,798",1.327,C,2.386,0.821
+,Crimson Snapper,964,1.635,C,1.576,0.533
+,Mangrove Jack,"1,771",0.836,A,1.481,0.481
+,Redthroat Emperor,925,1.022,A,0.945,0.572
+,Goldband Snapper,238,2.058,A,0.489,0.249
+,Brownstripe Snapper,273,0.842,C,0.230,0.248
+,Bluespotted Emperor,312,0.582,A,0.182,0.102
+,TOTAL,"29,224",,,51.989,5.366
+Gascoyne,Grass Emperor,"13,768",1.295,A,17.830,4.959
+,Pink Snapper,"6,447",2.429,S,15.660,3.896
+,Spangled Emperor,"6,008",1.946,A,11.692,2.540
+,Red Emperor,"3,375",3.112,A,10.503,4.864
+,Goldband Snapper,"4,986",2.058,A,10.171,2.982
+,Rankin Cod,"2,636",3.850,A,10.149,2.341
+,Redthroat Emperor,"7,736",1.022,A,7.906,2.319
+,Baldchin Groper,"1,823",2.115,S,3.856,1.865
+,Barcheek Coral Trout,"1,178",2.296,A,2.882,0.624
+,Stripey Snapper,"2,403",0.605,A,1.454,0.429
+,Saddletail Snapper,158,1.801,A,0.285,0.139
+,Mangrove Jack,292,0.836,A,0.244,0.130
+,Bluespotted Emperor,373,0.582,A,0.217,0.137
+,Crimson Snapper,94,1.635,C,0.154,0.136
+,Brownstripe Snapper,91,0.842,C,0.077,0.083
+,TOTAL,"51,368",,,93.080,9.683
+South,Pink Snapper,"4,794",2.429,S,11.645,4.319
+,Bight Redfish,"8,697",1.273,A,10.613,3.643
+,Blue Morwong,"2,418",2.854,A,6.901,1.490
+,West Australian Dhufish,"1,227",5.300,S,6.503,1.776
+,Hapuku,504,9.497,C,4.786,2.298
+,Breaksea Cod,"4,369",1.046,S,4.570,0.996
+,Harlequin Fish,604,1.401,A,0.846,0.248
+,Sea Sweep,302,1.332,A,0.402,0.208
+,Sergeant Baker,306,0.747,A,0.229,0.092
+,Foxfish,167,0.808,A,0.135,0.064
+,TOTAL,"23,388",,,46.630,6.610

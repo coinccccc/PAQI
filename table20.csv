@@ -1,0 +1,47 @@
+Bioregion,Species,Estimated,Average,Source,Estimated,Standard
+,,catch (kept by,weight (kg),,harvest,Error
+,,number),,,(tonnes),
+North,Barramundi,"1,450",4.005,C,5.807,1.762
+,King Threadfin,"1,092",4.733,C,5.168,1.704
+,Blue Threadfin,"1,961",1.162,A,2.279,0.696
+,Golden Trevally,698,2.439,A,1.702,0.941
+,Chinaman Rockcod,"1,981",0.443,A,0.878,0.553
+,Giant Trevally,238,3.409,C,0.811,0.416
+,Black Jewfish,179,3.158,C,0.565,0.202
+,Mullets,"3,702",0.126,C,0.414,0.297
+,Trevallies,94,1.103,C,0.154,0.131
+,Garfish,290,,G,0.052,0.055
+,TOTAL,"11,685",,,17.830,2.829
+Gascoyne,Chinaman Rockcod,"12,977",0.443,A,5.749,2.298
+,Golden Trevally,554,2.439,A,1.351,0.441
+,Western Butterfish,"6,389",0.162,A,1.035,1.133
+,Mulloway,236,3.868,C,0.913,0.565
+,School Whiting,"2,315",,G,0.379,0.213
+,Western Yellowfin Bream,416,0.514,A,0.214,0.219
+,Garfish,"1,157",,G,0.205,0.221
+,Giant Trevally,32,3.409,C,0.109,0.092
+,Mullets,"1,170",0.126,C,0.077,0.066
+,Silver Trevally,49,0.511,A,0.025,0.020
+,TOTAL,"25,295",,,10.057,2.689
+West,School Whiting,"242,775",,G,26.424,4.070
+,Australian Herring,"128,105",0.136,B,17.422,4.226
+,Silver Trevally,"32,272",0.511,A,16.491,4.824
+,King George Whiting,"30,434",0.250,A,7.609,1.401
+,Tailor,"8,595",0.592,A,5.088,2.553
+,Western King Wrasse,"7,691",0.308,S,2.369,0.675
+,Black Bream,"5,185",0.298,A,1.545,1.116
+,Western Butterfish,"2,543",0.162,A,0.412,0.298
+,Mullets,"2,015",0.126,C,0.251,0.218
+,Garfish,"1,304",,G,0.190,0.132
+,TOTAL,"460,919",,,77.801,8.248
+South,King George Whiting,"36,761",0.250,A,9.190,2.512
+,Western Australian Salmon,"1,515",3.501,A,5.304,2.258
+,Australian Herring,"22,152",0.133,S,2.946,0.676
+,School Whiting,"15,736",,G,1.909,0.555
+,Black Bream,"5,443",0.298,A,1.622,0.761
+,Silver Trevally,"2,384",0.511,A,1.218,0.392
+,Southern Bluespotted Flathead,"1,412",0.571,A,0.806,0.270
+,Tarwhine,"1,134",0.667,C,0.756,0.519
+,Snook,699,0.719,A,0.503,0.252
+,Garfish,746,,G,0.076,0.060
+,TOTAL,"87,982",,,24.330,3.649
